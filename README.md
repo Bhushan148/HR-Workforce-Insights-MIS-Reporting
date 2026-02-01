@@ -1,5 +1,5 @@
 # HR Workforce Insights & MIS Reporting  
-**PostgreSQL • SQL • Excel Power Query • Power Pivot • DAX • VBA**
+**PostgreSQL • SQL • Excel • Power Query • Power Pivot • DAX • VBA**
 
 ---
 
